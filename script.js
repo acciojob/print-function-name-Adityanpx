@@ -3,4 +3,3 @@ function Hello() {
 	alert(arguments.calle.name);
 }
 
-Hello();
