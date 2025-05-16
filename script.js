@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function Hello() {
-	alert(arguments.calle.name);
+function Aditya() {
+	alert(arguments.callee.name);
 }
-
+Aditya();
