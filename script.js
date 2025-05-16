@@ -2,4 +2,3 @@
 function Aditya() {
 	alert(arguments.callee.name);
 }
-Aditya();
